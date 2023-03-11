@@ -3,5 +3,5 @@ import { Module } from '@nestjs/common';
   imports: [],
   controllers: [],
   providers: [],
-})
+}) //
 export class AppModule {}
